@@ -1,4 +1,4 @@
-# NeetCode Solutions — @rodeanmoradi
+# LeetCode Solutions — @rodeanmoradi
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions-1o9w7jvh`
 
